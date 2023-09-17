@@ -1,0 +1,46 @@
+body {
+    background-image: url(backgroundimagewithbluewhitestripes.jpg);
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+}
+.background-of-cv {
+
+    width:20%;
+    background-color:aliceblue;
+    padding:20px;
+    margin-left:80px;
+    margin-right:200px;
+    max-width: 1000px;
+}
+h1{
+    font-size:35px;
+    font-style:italic;
+    margin-left:25px;
+}
+h2,h3 {
+    font-size: 18px;
+    margin-left:17Spx;
+}
+.form-line {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .form-line label {
+    margin-right: 10px;
+  }
+  .form-line img {
+    width: 250px;
+    height: 130px;
+    margin-left: 10px;
+  }
+ 
+  fieldset {
+    width: 350px; 
+  }
+ h6 {
+   font-size:15px;
+   text-align: right;
+
+ }
